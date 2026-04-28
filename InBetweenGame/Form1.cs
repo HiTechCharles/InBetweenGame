@@ -14,7 +14,7 @@ namespace InBetweenGame
 {
     public partial class Form1 : Form
     {
-        #region Constants
+'        #region Constants
         private const int SpeechRate = 4;
         private const int SpeechVolume = 100;
         private const int MinimumBet = 10;
